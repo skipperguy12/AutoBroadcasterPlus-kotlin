@@ -1,0 +1,5 @@
+name: AutoBroadcasterPlus
+version: 2.0.0
+description: "Broadcaster plugin with extra features"
+authors: [skipperguy12, kblanks]
+main: me.skipperguy12.AutoBroadcasterPlus.AutoBroadcasterPlusPlugin
